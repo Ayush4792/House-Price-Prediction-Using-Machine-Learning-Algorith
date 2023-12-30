@@ -1,1 +1,1 @@
-# House-Price-Prediction-Using-Machine-Learning-Algorith
+# Bangalore_house_price_prediction
